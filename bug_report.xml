@@ -1,1 +1,12 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<bug_report>
+    <Bug_id>2</Bug_id>
+    <Title>Add widget” button is not working on device</Title>
+    <Severity>high</Severity>
+    <Priority>low</Priority>
+    <Environment>Honor 8x JSN-L21 Android 10.0.0260</Environment>
+    <Precondition>Clear the app from running</Precondition>
+    <Step_To_Reproduce>1)Open app; 2)Click “Add Widget” button</Step_To_Reproduce>
+    <Actual_Result>Nothing happens, button is not working, widget is not created on any page</Actual_Result>
+    <Expected_Result>Widget creation window appears/widget created</Expected_Result>
+</bug_report>
