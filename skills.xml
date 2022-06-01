@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<skillsCourse>
+    <skill>Базовая теория (Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования и т.п.) SDLC, STLC</skill>
+    <skill>Что такое клиент-серверная архитектура</skill>
+    <skill>HTTP Методы запросов на сервер</skill>
+    <skill>Коды ответов HTTP сервера</skill>
+    <skill>Структуры HTTP запросов и ответов</skill>
+    <skill>Что такое JSON, XML. Их структура</skill>
+    <skill>Тестирование API через Postman (JS, автотесты API)</skill>
+    <skill>Снятие и чтение логов c внешнего сервера</skill>
+    <skill>Снифинг http web трафика через Charles и Fiddler</skill>
+    <skill>Dev Tools веб браузеров (Google Chrome, FireFox)</skill>
+    <skill>VPN. (Как работает, зачем нужен, как использовать, варианты инструментов)</skill>
+    <skill>Мобильное тестирование</skill>
+    <skill>Особенность iOS, Android, гайдлайны</skill>
+    <skill>Сборка iOS приложений на XCode</skill>
+    <skill>Сборка Android приложений на Android Studio</skill>
+    <skill>ADB (управление андройд девайсами)</skill>
+    <skill>Настройка прокси и vpn на iOS и Android</skill>
+    <skill>Перехват (сниффинг) мобильного трафика через Charles и Fiddler на iOS и Android</skill>
+    <skill>Командная строка (terminal) Linux (копирование, создание, просмотр, перемещение файлов на серверах без графического интерфейса)</skill>
+    <skill>Основы bash скриптинг, автоматизация рутинных задач на сервере</skill>
+    <skill>Доступ к удалённым серверам</skill>
+    <skill>Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)</skill>
+    <skill>База данных Postgres (установка, настройка и использование)</skill>
+    <skill>Нереляционная база данных Redis (установка, настройка и использование)</skill>
+    <skill>Нагрузочное тестирование в Jmeter</skill>
+    <skill>Методология разработки Scrum</skill>
+    <skill>Python. (Изучение основ. Создание клиент серверного приложения)</skill>
+</skillsCourse>
